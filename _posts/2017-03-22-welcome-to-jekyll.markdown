@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2017-03-22 10:27:30 -0500
+date:   2017-03-28 10:27:30 -0500
 categories: jekyll update
 ---
-This is my first post. I'm learning more about using jekyll and github. 
+This is my first post. I'm learning more about using jekyll and github.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
