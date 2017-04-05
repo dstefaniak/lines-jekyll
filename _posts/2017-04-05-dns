@@ -1,0 +1,10 @@
+layout: post
+title:  "New Site is up and running"
+date:   2017-04-05 16:52:30 -0500
+categories: jekyll dns domains
+---
+I just created my own domain from Google Domains. After that,
+I went into DNS and in the Custom Resource Records section, I entered
+www in the name field, selected CNAME from the type drop down and entered
+my github url in the data field. In github, under settings, I added my
+new url.
