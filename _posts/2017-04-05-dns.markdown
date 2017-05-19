@@ -1,7 +1,8 @@
+---
 layout: post
 title:  "New Site is up and running"
-date:   2017-04-05 16:52:30 -0500
-categories: jekyll dns domains
+date:   2017-04-05
+permalink: dns.html
 ---
 I just created my own domain from Google Domains. After that,
 I went into DNS and in the Custom Resource Records section, I entered
